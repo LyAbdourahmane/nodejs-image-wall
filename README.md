@@ -24,15 +24,12 @@ Ce projet consiste en la création d’un serveur HTTP complet en Node.js, déve
 
 ## Installation
 
-1. Cloner le dépôt :
-   ```bash
-   git clone https://github.com/tonPseudo/nodejs-image-wall.git
-2. Installer les dépendances PostgreSQL et Node.js.
-3. Configurer la base de données PostgreSQL (fichier SQL fourni).
-4. Lancer le serveur :
+1. Installer les dépendances PostgreSQL et Node.js.
+2. Configurer la base de données PostgreSQL (fichier SQL fourni).
+3. Lancer le serveur :
 
 bash
 - node server.js
 
 ## Usage
-Accéder au serveur via http://localhost:3000, s’inscrire, puis utiliser le mur d’images.
+Accéder au serveur via http://localhost:8080, s’inscrire, puis utiliser le mur d’images.
